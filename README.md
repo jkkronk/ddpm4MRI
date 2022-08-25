@@ -4,7 +4,7 @@ This is the codebase for diffusion models for MRI rec The code is very much base
 
 ## Preparing Data
 
-The training data is stored on the cluster at 
+The training data is stored on the cluster at /itet-stor/<username>/bmicdatasets_bmicnas01/Processed/fastMRI_with_espiritcoils/fastMRI_train_mid
 
 ## Training with 
 script/image_train.py
