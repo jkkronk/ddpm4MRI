@@ -39,7 +39,7 @@ High-Frequency Space Diffusion Models for Accelerated MRI https://arxiv.org/pdf/
 Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction https://arxiv.org/pdf/2203.03623.pdf
 Adaptive Diffusion Priors for Accelerated MRI Reconstruction https://arxiv.org/pdf/2207.05876.pdf
 
-My "paper": 
+My "paper.pdf": 
 I wrote a short summary of our plan that didn't work due to sensitivity maps (Ender have more infos on why it didn't work). 
 Note that this paper is not read by anyone but me so there is no proof reading done and should be read with a grain of salt. 
 You can find it paper.pdf
