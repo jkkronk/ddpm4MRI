@@ -1,5 +1,7 @@
 # diffusion models for MRI rec
 
+**This code is deprecated and paper + code should be taken with a big grain of salt**
+
 This is the codebase for diffusion models for MRI rec The code is very much based on [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672). So, if you have any problems check out their repo first...
 
 ## Preparing Data
